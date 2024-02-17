@@ -1,0 +1,7 @@
+$
+numMines
+time
+
+$
+n
+t
